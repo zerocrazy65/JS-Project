@@ -1,1 +1,0 @@
-this project is basic XO game if you have winner you can press R to restart
