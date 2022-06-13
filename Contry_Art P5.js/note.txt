@@ -1,0 +1,2 @@
+This is genarate art project by use perlin noise theory. start with first page enter number you like and click screen to second page.
+this page you can choose one country you like and screen will get your enter number to genarate art according to country your choose
