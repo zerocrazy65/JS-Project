@@ -1,0 +1,2 @@
+this is detect black project by use perlin noise theory. video capture and create sketch ellipse black color on white background
+if you put black or nearby color item on your screen ellipse will change bigger size and white color make ellipse will change smaller
