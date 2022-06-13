@@ -9,4 +9,4 @@ Words with P5.js ending can run by copy code in sketch and paste on P5.js webapp
 6. Compare the grade https://editor.p5js.org/katapat.43/sketches/9VxbqI1Rh
 7. Contry_Art https://editor.p5js.org/katapat.43/sketches/ZVHkHw7H4 
 
-note about project you can read it in project file 
+note about P5.js project you can read it in project file 
