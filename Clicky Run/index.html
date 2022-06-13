@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Square game</title>
+    <script type="text/javascript" src="game.js"></script>
+    <link rel="stylesheet" type="text/css" href="game.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <!-- these codes were adapted from https://courses.cs.washington.edu/courses/cse154/17sp/lecture/more-dom/code/squares.html  -->
+
+    <fieldset class="container" id="colorselector">
+        <legend class="h3 mt-2">Clicky run</legend>
+        set your box click :
+        <input class="input-group-prepend" type="text" name="numbox" onfocus="this.value=''" id="numbox">
+        <select class="btn btn-dark" name="color" id="color">
+  				<option value="#F44B48">Red</option>
+  				<option value="#5A78F0">Blue</option>
+  				<option value="#7CEF5A">Green</option>
+			</select>
+        <button class="btn btn-danger" id="start">Start</button>
+        <div id="timerClock"> Timer Count :
+            <div id="clock"></div>
+        </div>
+    </fieldset>
+
+
+
+
+    <div id="game-container">
+        <div class="border " id="game-layer"></div>
+    </div>
+
+</body>
+
+</html>

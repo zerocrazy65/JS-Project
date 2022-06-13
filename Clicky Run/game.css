@@ -1,0 +1,18 @@
+#game-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#game-layer {
+    position: relative;
+    width: 1000px;
+    height: 700px;
+}
+
+.square {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border: 1px solid rgb(82, 82, 82);
+}

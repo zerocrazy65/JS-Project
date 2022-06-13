@@ -1,0 +1,68 @@
+body{
+}
+div {
+    font-family: "italic small-caps";
+    font-style: normal;
+    letter-spacing: 0.065em;
+    color: #484848;
+}
+#header {
+    font-size: 20pt;
+    color: #101010;
+    letter-spacing: 0.06em;
+}
+
+hr {
+    clear: both;
+    visibility: hidden;
+}
+button {
+    background: #C4C4C4;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 7px 6px 0px rgba(0, 0, 0, 0.25);
+    font-family: "Raleway",sans-serif; font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.065em;
+    color: #484848;
+    opacity: 0.8;
+}
+textarea {
+    position: absolute;
+    width: 305px;
+    height: 37px;
+    margin-left:27px;
+    background: #E3E1E1;
+    border-radius: 9px;
+}
+.tp_container {
+    display: grid;
+    grid-template-columns: auto 25%;
+    align-items: center;
+    position: relative;
+    width: 494px;
+    height: 293px;
+    background: #D86666;
+    box-shadow: 7px 8px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.monitor {
+    position:absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 340px;
+    height: 240px;
+    background: #71C9D5;
+    box-shadow: 15px 15px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+}
+.block {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.clear_switch{
+    margin-top: 50px;
+}
