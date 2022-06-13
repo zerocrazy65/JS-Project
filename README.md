@@ -1,7 +1,7 @@
 # JS-Project
 Words with P5.js ending can run by copy code in sketch and paste on P5.js webapp. 
 <h3>OR<h3<
-<a>open my project p5.js fastest by click link
+open my project p5.js fastest by click link
 <br>
 1. XO Game https://editor.p5js.org/katapat.43/sketches/jtO9kV_IC
 2. Avoid UFO https://editor.p5js.org/katapat.43/sketches/soNEcppza
@@ -9,4 +9,4 @@ Words with P5.js ending can run by copy code in sketch and paste on P5.js webapp
 4. GenerateArt https://editor.p5js.org/katapat.43/sketches/RQAHZOZKf
 5. SunflowerClock https://editor.p5js.org/katapat.43/sketches/t3UPyzS-S
 6. Compare the grade https://editor.p5js.org/katapat.43/sketches/9VxbqI1Rh
-7. Contry_Art https://editor.p5js.org/katapat.43/sketches/ZVHkHw7H4 <a>
+7. Contry_Art https://editor.p5js.org/katapat.43/sketches/ZVHkHw7H4 
